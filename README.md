@@ -15,12 +15,12 @@ Download jQuery
 Download GSAP
 
 # How to update #
-Column size (colQty): Determines how many columns the cover has.
+**Column size (colQty)**: Determines how many columns the cover has.
 
-Image (imgsrc): The image to be revealed.
+**Image (imgsrc)**: The image to be revealed.
 
-Reveal Speed (revealSpd): Determines how fast each column reacts for the image to be revealed.
+**Reveal Speed (revealSpd)**: Determines how fast each column reacts for the image to be revealed.
 
-Opacity Speed (opacitySpd): Determines the disappearing speed of the column after reacting. 
+**Opacity Speed (opacitySpd)**: Determines the disappearing speed of the column after reacting. 
 
-Cover Color (coverColor): The main cover of the actual image. It is made up of columns.
+**Cover Color (coverColor)**: The main cover of the actual image. It is made up of columns.
