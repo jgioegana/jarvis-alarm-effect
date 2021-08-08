@@ -1,5 +1,5 @@
 # jarvis-alarm-effect
-Give your image a nice, smooth, reveal effect. This effect is inspired by the J.A.R.V.I.S. alarm clock sequence found on the first Iron Man movie! 
+Give your image a nice, smooth, reveal effect. This effect is inspired by the J.A.R.V.I.S. alarm clock sequence shown on the first Iron Man movie! 
 
 DISCLAIMER: I did not include a clock/alarm for this effect. This project is only the visual effect. I named it "Jarvis Alarm" for it is how people recognize the scene from Iron Man 1, but you can certainly add one if you want to. Enjoy!
 
