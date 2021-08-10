@@ -10,9 +10,9 @@ Check my website: https://gioreyes.me/
 
 # Prerequisites #
 
-Download jQuery
+Download [jQuery](https://jquery.com/download/)
 
-Download GSAP
+Download [GSAP](https://greensock.com/)
 
 # How to update #
 **Column size (colQty)**: Determines how many columns the cover has.
