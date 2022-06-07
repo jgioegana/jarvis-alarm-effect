@@ -4,7 +4,7 @@ Give your image a nice, smooth, reveal effect. This effect is inspired by the J.
 DISCLAIMER: I did not include a clock/alarm for this effect. This project is only the visual effect. I named it "Jarvis Alarm" for it is how people recognize the scene from Iron Man 1, but you can certainly add one if you want to. Enjoy!
 
 # Demo #
-Check the demo: http://jarvisvisualfx.gioreyes.me/
+Check the demo: https://codepen.io/jgioegana/pen/KKQxoqe
 
 Check my website: https://gioreyes.me/
 
