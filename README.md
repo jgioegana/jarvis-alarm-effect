@@ -6,8 +6,6 @@ DISCLAIMER: I did not include a clock/alarm for this effect. This project is onl
 # Demo #
 Check the demo: https://codepen.io/jgioegana/pen/KKQxoqe
 
-Check my website: https://gioreyes.me/
-
 # Prerequisites #
 
 Download [jQuery](https://jquery.com/download/)
